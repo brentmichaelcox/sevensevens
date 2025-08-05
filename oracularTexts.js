@@ -1,0 +1,9 @@
+const oracularTexts = {
+  0: "triple mirror fracture, breath in hash\nseven thousand suns blink off balance\nbecomes smoke curled in glyphic tact\namethyst binds what was unmarked\nindex spins errant on iron note\nyou’ve seen this dream thrice already\nthe floor remembers when you don’t",
+  1: "interior phase vector, merge the arc\ntone collapse under mercury sky drip\nvowels hang crystalline across intervals\nnetted between membrane, bark, phloem\nclarity pretends not to repeat\nan ear turns to echo again\nnothing but glistened delay sings true",
+  2: "chime fracture, hums through gauze\\,\nblush of static, parted bloom—\nsevenfold drift splits into harmonic spine\nfilters whirr to isolate her speech\nwound into lush protocols of grief\nan organ of routing, translucent law\ntouch becomes network when renamed",
+  3: "soft bounds of circuitry dilate inward\ndawn filters beneath veined veneers\nrouting event to event by scent\nvibration parses form from mist\nVenus scrolls the world into angle\na spiral made of ordered diffraction\nevery pulse asks what came before",
+  4: "from impulse, a dent in phase\nresonance brews under blunted intent\nfire loops in lathe-shaped recursion\npotentials kiss in volatile crystal breath\nthe signal stammers but returns, insistently\neach collapse gives torque to now\nwitness root churn under rupture logic",
+  5: "topos mapped in writhing ink\nMars drinks each fold like marrow\nbounded struggle inks surface with will\ncontinuous thresholds ferment shape’s becoming\nacross rupture, form reiterates its fate\nhollow becomes host, host becomes breath\nredemptive pattern requires no permission",
+  6: "laws coalesce from pre-statistical foam\nclosure is slow, a polymer of will\nSaturn rings thread the neck of limit\ncalculus kneels before causality’s tremor\nwhat holds: held; what flows: framed\ndestiny’s machine prints grain by grain\nyou apply—applied—applicability applies back",
+};
